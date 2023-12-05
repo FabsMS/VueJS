@@ -1,0 +1,1 @@
+//instalar o CLI globalmente -> npm install -g @vue/cli
